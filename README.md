@@ -1,4 +1,4 @@
-![sdsds](https://i.paste.pics/05df3f1d69d4e178d0f2fd5594a163bf.png)
+![sdsds](https://i.paste.pics/2dc846221ed0dc63438eb99cc0d3357f.png)
 
 <a href="https://github.com/Dwifakhri/u-library-app" style="color: black;">
     <h1 align="center">U-Library - App</h1>
@@ -59,7 +59,7 @@ You may also see any lint errors in the console.
 
 ## Deployment
 Go to the link to launch the app
-
+https://u-library-app.vercel.app/
 
 ## Vue 3 + Vite
 
